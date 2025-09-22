@@ -1,0 +1,11 @@
+{
+    "binance": {
+        "api_key": "your_api_key_here",
+        "api_secret": "your_api_secret_here"
+    },
+    "trading": {
+        "symbol": "BTCUSDT",
+        "timeframe": "1m",
+        "test_mode": true
+    }
+}
